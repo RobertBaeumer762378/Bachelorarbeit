@@ -1,0 +1,100 @@
+Der Test wurde gestartet!
+Button Yellow was pressed after 01:20
+Button Yellow was pressed after 01:24
+Button Red was pressed after 01:27
+Button Pink was pressed after 01:30
+Button Green was pressed after 01:32
+Button Blue was pressed after 01:33
+Button Green was pressed after 01:34
+Button Green was pressed after 01:35
+Button Green was pressed after 01:35
+Button Green was pressed after 01:35
+Button Green was pressed after 01:36
+Button Grey was pressed after 01:37
+Button Blue was pressed after 01:38
+Button Pink was pressed after 01:40
+Button Pink was pressed after 01:44
+Button Green was pressed after 01:45
+Button Blue was pressed after 01:45
+Button Grey was pressed after 01:46
+Button Green was pressed after 01:48
+Button Green was pressed after 01:48
+Button Green was pressed after 01:49
+Button Green was pressed after 01:49
+Button Green was pressed after 01:50
+Button Green was pressed after 01:50
+Button Green was pressed after 01:51
+Button Green was pressed after 01:51
+Button Yellow was pressed after 02:03
+Button Yellow was pressed after 02:03
+Button Pink was pressed after 02:04
+Button Pink was pressed after 02:05
+Button Green was pressed after 02:05
+Button Green was pressed after 02:06
+Button Blue was pressed after 02:07
+Button Red was pressed after 02:09
+Button Red was pressed after 02:09
+Button Grey was pressed after 02:10
+Button Grey was pressed after 02:11
+Button Grey was pressed after 02:11
+Button Yellow was pressed after 02:37
+Button Yellow was pressed after 02:38
+Button Yellow was pressed after 02:40
+Button Yellow was pressed after 02:40
+Button Yellow was pressed after 02:41
+Button Yellow was pressed after 02:41
+Button Yellow was pressed after 02:42
+Button Yellow was pressed after 02:42
+Button Yellow was pressed after 02:42
+Button Yellow was pressed after 02:43
+Button Yellow was pressed after 02:46
+The Sound Gong was played after 03:42, the Button to be pressed should be Button Yellow.
+Button Yellow was pressed after 03:44
+Button Yellow was pressed after 03:44
+Button Yellow was pressed after 03:45
+Button Yellow was pressed after 03:46
+The Sound Gong was played after 03:47, the Button to be pressed should be Button Yellow.
+Button Yellow was pressed after 03:48
+Button Yellow was pressed after 03:48
+Button Yellow was pressed after 03:49
+Button Yellow was pressed after 03:49
+Button Yellow was pressed after 03:49
+Button Yellow was pressed after 03:49
+Button Yellow was pressed after 03:50
+The Sound Cash was played after 03:52, the Button to be pressed should be Button Blue.
+The Sound Gong was played after 03:57, the Button to be pressed should be Button Yellow.
+Button Blue was pressed after 03:57
+Button Yellow was pressed after 03:59
+The Sound Thunder was played after 04:02, the Button to be pressed should be Button Pink.
+Button Pink was pressed after 04:04
+The Sound Gong was played after 04:07, the Button to be pressed should be Button Yellow.
+Button Yellow was pressed after 04:09
+The Sound Drumset was played after 04:12, the Button to be pressed should be Button Red.
+Button Red was pressed after 04:13
+The Sound Thunder was played after 04:17, the Button to be pressed should be Button Pink.
+The Sound Bird Whistle was played after 04:22, the Button to be pressed should be Button Green.
+Button Green was pressed after 04:24
+The Sound Thunder was played after 04:27, the Button to be pressed should be Button Pink.
+Button Pink was pressed after 04:30
+The Sound Bird Whistle was played after 04:32, the Button to be pressed should be Button Green.
+Button Green was pressed after 04:34
+The Sound Drumset was played after 04:37, the Button to be pressed should be Button Red.
+Button Red was pressed after 04:39
+The Sound Bird Whistle was played after 04:42, the Button to be pressed should be Button Green.
+Button Green was pressed after 04:44
+The Sound Bird Whistle was played after 04:47, the Button to be pressed should be Button Green.
+Button Green was pressed after 04:49
+The Sound Train was played after 04:52, the Button to be pressed should be Button Grey.
+Button Blue was pressed after 04:54
+The Sound Gong was played after 04:57, the Button to be pressed should be Button Yellow.
+Button Yellow was pressed after 04:59
+The Sound Gong was played after 05:02, the Button to be pressed should be Button Yellow.
+Button Yellow was pressed after 05:03
+The Sound Train was played after 05:07, the Button to be pressed should be Button Grey.
+Button Blue was pressed after 05:09
+The Sound Train was played after 05:12, the Button to be pressed should be Button Grey.
+Button Blue was pressed after 05:14
+The Sound Train was played after 05:17, the Button to be pressed should be Button Grey.
+Button Blue was pressed after 05:19
+The Sound Train was played after 05:22, the Button to be pressed should be Button Grey.
+Button Blue was pressed after 05:24

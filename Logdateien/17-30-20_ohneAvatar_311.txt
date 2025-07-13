@@ -1,0 +1,26 @@
+Der Test wurde gestartet!
+Button Blue was pressed after 01:51
+Button Blue was pressed after 02:00
+Button Yellow was pressed after 03:42
+Button Yellow was pressed after 03:42
+The Sound Train was played after 04:42, the Button to be pressed should be Button Grey.
+The Sound Cash was played after 04:47, the Button to be pressed should be Button Blue.
+The Sound Bird Whistle was played after 04:52, the Button to be pressed should be Button Green.
+The Sound Thunder was played after 04:57, the Button to be pressed should be Button Pink.
+The Sound Train was played after 05:02, the Button to be pressed should be Button Grey.
+The Sound Cash was played after 05:07, the Button to be pressed should be Button Blue.
+The Sound Thunder was played after 05:12, the Button to be pressed should be Button Pink.
+The Sound Thunder was played after 05:17, the Button to be pressed should be Button Pink.
+The Sound Cash was played after 05:22, the Button to be pressed should be Button Blue.
+The Sound Gong was played after 05:27, the Button to be pressed should be Button Yellow.
+The Sound Train was played after 05:32, the Button to be pressed should be Button Grey.
+The Sound Thunder was played after 05:37, the Button to be pressed should be Button Pink.
+The Sound Drumset was played after 05:42, the Button to be pressed should be Button Red.
+The Sound Train was played after 05:47, the Button to be pressed should be Button Grey.
+The Sound Drumset was played after 05:52, the Button to be pressed should be Button Red.
+The Sound Drumset was played after 05:57, the Button to be pressed should be Button Red.
+The Sound Gong was played after 06:02, the Button to be pressed should be Button Yellow.
+The Sound Train was played after 06:07, the Button to be pressed should be Button Grey.
+The Sound Gong was played after 06:12, the Button to be pressed should be Button Yellow.
+The Sound Train was played after 06:17, the Button to be pressed should be Button Grey.
+The Sound Thunder was played after 06:22, the Button to be pressed should be Button Pink.

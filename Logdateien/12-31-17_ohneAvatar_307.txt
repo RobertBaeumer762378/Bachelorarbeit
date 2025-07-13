@@ -1,0 +1,45 @@
+Der Test wurde gestartet!
+Button Pink was pressed after 02:10
+Button Green was pressed after 02:35
+Button Green was pressed after 02:39
+Button Blue was pressed after 02:42
+Button Pink was pressed after 02:43
+Button Red was pressed after 02:45
+Button Yellow was pressed after 03:26
+The Sound Train was played after 04:26, the Button to be pressed should be Button Grey.
+Button Red was pressed after 04:30
+The Sound Bird Whistle was played after 04:31, the Button to be pressed should be Button Green.
+Button Green was pressed after 04:33
+The Sound Cash was played after 04:36, the Button to be pressed should be Button Blue.
+Button Blue was pressed after 04:38
+The Sound Drumset was played after 04:41, the Button to be pressed should be Button Red.
+Button Pink was pressed after 04:44
+The Sound Gong was played after 04:46, the Button to be pressed should be Button Yellow.
+Button Yellow was pressed after 04:50
+The Sound Drumset was played after 04:51, the Button to be pressed should be Button Red.
+The Sound Drumset was played after 04:56, the Button to be pressed should be Button Red.
+The Sound Cash was played after 05:01, the Button to be pressed should be Button Blue.
+Button Blue was pressed after 05:05
+The Sound Gong was played after 05:06, the Button to be pressed should be Button Yellow.
+Button Yellow was pressed after 05:08
+The Sound Drumset was played after 05:11, the Button to be pressed should be Button Red.
+Button Pink was pressed after 05:13
+The Sound Drumset was played after 05:16, the Button to be pressed should be Button Red.
+The Sound Cash was played after 05:21, the Button to be pressed should be Button Blue.
+Button Grey was pressed after 05:21
+Button Blue was pressed after 05:25
+The Sound Train was played after 05:26, the Button to be pressed should be Button Grey.
+Button Red was pressed after 05:30
+The Sound Drumset was played after 05:31, the Button to be pressed should be Button Red.
+The Sound Gong was played after 05:36, the Button to be pressed should be Button Yellow.
+The Sound Bird Whistle was played after 05:41, the Button to be pressed should be Button Green.
+Button Green was pressed after 05:45
+The Sound Drumset was played after 05:46, the Button to be pressed should be Button Red.
+Button Pink was pressed after 05:51
+The Sound Cash was played after 05:51, the Button to be pressed should be Button Blue.
+Button Blue was pressed after 05:53
+The Sound Gong was played after 05:56, the Button to be pressed should be Button Yellow.
+Button Yellow was pressed after 06:00
+The Sound Train was played after 06:01, the Button to be pressed should be Button Grey.
+The Sound Train was played after 06:06, the Button to be pressed should be Button Grey.
+Button Red was pressed after 06:06

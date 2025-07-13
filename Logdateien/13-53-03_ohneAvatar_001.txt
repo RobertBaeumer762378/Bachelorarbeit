@@ -1,0 +1,12 @@
+Der Test wurde gestartet!
+Button Pink was pressed after 00:51
+Button Pink was pressed after 00:51
+Button Pink was pressed after 01:15
+Button Green was pressed after 01:17
+Button Green was pressed after 01:27
+Button Blue was pressed after 01:31
+Button Grey was pressed after 01:33
+Button Red was pressed after 01:37
+Button Green was pressed after 01:52
+Button Red was pressed after 01:55
+Button Yellow was pressed after 01:59
